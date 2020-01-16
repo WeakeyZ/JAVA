@@ -3,7 +3,7 @@ package scala.demo.base01
 /**
   * Scala编程开始-Hello World
   */
-object HelloWorld {
+object HelloWorld01 {
 
   /** def 函数名(参数1:参数类型 [,参数2:参数类型]) : 返回类型 {
     *   方法体

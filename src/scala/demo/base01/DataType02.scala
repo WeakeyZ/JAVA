@@ -4,7 +4,7 @@ package scala.demo.base01
   * https://www.cnblogs.com/PerkinsZhu/p/7868012.html
   * https://www.jianshu.com/p/190851442cf5
   */
-object DataType {
+object DataType02 {
   /**
     * scala常用类型有：
     * Byte，Char，Short，Int，Long，Float，Double，Boolean
