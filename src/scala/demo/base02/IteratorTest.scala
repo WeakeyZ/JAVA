@@ -14,6 +14,8 @@ object IteratorTest {
     val iter = Iterator("Hadoop", "Scala", "Java")
     // hasNext，不是hasNext()，会报错
     // next，和next()，都可以
+
+    // 下面是两种遍历的方式
     while (iter.hasNext)
       println(iter.next())
 
